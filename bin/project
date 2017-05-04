@@ -1,7 +1,0 @@
-#!/bin/sh
-
-Terminal --working-directory=/home/el/projects/gstiles
-Terminal --working-directory=/home/el/projects/gstiles
-Terminal --working-directory=/home/el/projects/gstiles
-
-exit 0

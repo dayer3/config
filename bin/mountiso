@@ -1,6 +1,0 @@
-#!/bin/sh
-# Mount ISO Image
-sudo mount -o loop -t iso9660 "$@" /mnt/iso;
-
-exit 0
-
